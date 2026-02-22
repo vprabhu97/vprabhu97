@@ -88,8 +88,8 @@ Strumming guitar casually, exploring genres, and often working with binaural bea
 
 If you're leading an enterprise AI initiative and need a consulting partner who can hold both the strategic and the human dimension of AI adoption — I'd genuinely enjoy the conversation.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vinayak%20Prabhu-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-your.email%40email.com-D14836?style=flat-square&logo=gmail)](mailto:your.email@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vinayak%20Prabhu-0A66C2?style=flat-square&logo=linkedin)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/vinayak-prabhu))
+[![Email](https://img.shields.io/badge/Email-your.email%40email.com-D14836?style=flat-square&logo=gmail)](mailto:vprabhu97@gmail.com)
 
 <div align="center">
 
