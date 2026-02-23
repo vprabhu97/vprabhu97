@@ -10,7 +10,7 @@
 
 # Vinayak Prabhu
 
-**AI Consulting Manager · Enterprise AI Advisor · Bangalore, India**
+**Senior AI Consultant · Enterprise AI Advisor · Bangalore, India**
 
 *Helping enterprises move from AI aspiration to measurable business value — for 14+ years.*
 
