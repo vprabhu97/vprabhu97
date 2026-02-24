@@ -4,13 +4,13 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║          AI STRATEGY · CONSULTING · ADVISORY                 ║
+║          AI SOLUTIONS · CONSULTING · ADVISORY                 ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
 # Vinayak Prabhu
 
-**Senior AI Consultant · Enterprise AI Advisor · Bangalore, India**
+**AI Solutions Architect · Enterprise AI Advisor · Bangalore, India**
 
 *Helping enterprises move from AI aspiration to measurable business value — for 14+ years.*
 
@@ -23,11 +23,9 @@
 
 ## 👋 About Me
 
-I'm an AI Strategy Consultant with 14+ years of experience helping enterprises across **financial services** and **global consulting** define, design, and deliver AI strategies that create real, board-reportable outcomes. I've led cross-functional teams and served as a trusted AI advisor to executive stakeholders across global consulting environments.
+I'm an AI Solutions Architect with 14+ years of experience helping enterprises across **financial services** and **global consulting** define, design, and deliver AI strategies that create real, board-reportable outcomes. I've led cross-functional teams and served as a trusted AI advisor to executive stakeholders across global consulting environments.
 
 I'm equally at home in the boardroom facilitating trade-off discussions with senior leadership as I am in the delivery room reviewing architecture decisions with engineering teams. My edge is translating between those two worlds — fluently, credibly, and without losing the business outcome.
-
-Currently seeking **client-facing AI Consulting or Advisory Manager roles** with onshore engagement.
 
 ---
 
